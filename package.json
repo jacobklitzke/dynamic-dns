@@ -1,0 +1,12 @@
+{
+  "name": "dynamic-dns",
+  "version": "1.0.0",
+  "description": "Dynamic DNS for Digital Ocean records",
+  "main": "cli.js",
+  "author": "jklitzke",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "node-ssh": "^8.0.0"
+  }
+}

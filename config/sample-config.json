@@ -1,0 +1,9 @@
+{
+  "accessToken": "insert digitalOceanTokenHere",
+  "hostnames": ["example", "www.example"],
+  "routerIP": "routerIP",
+  "routerUsername": "routerUsername",
+  "routerExternalInterfaceName": "routerInterfaceName",
+  "sshPrivateKeyLocation": "id_rsa file location",
+  "domainName": "domainname"
+}
